@@ -1,0 +1,15 @@
+{
+  "name": "natural-schoolwear",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Natural Schoolwear website. Static site, no dependencies.",
+  "scripts": {
+    "dev": "node --watch-path=lib --watch-path=site.config.mjs build.mjs --serve",
+    "build": "node build.mjs",
+    "preview-drafts": "node build.mjs --drafts"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

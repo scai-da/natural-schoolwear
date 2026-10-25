@@ -1,0 +1,98 @@
+# Pages CMS (https://pagescms.org): a free browser editor for this site.
+# Sign in at app.pagescms.org with GitHub, pick this repository, and you can
+# write and publish articles without touching code.
+
+media:
+  input: public/images/blog
+  output: /images/blog
+
+content:
+  - name: blog
+    label: Blog articles
+    type: collection
+    path: content/blog
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, date, draft, topic]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: SEO description (one or two sentences, shown in Google and on article cards)
+        type: text
+        required: true
+      - name: date
+        label: Publish date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: draft
+        label: Draft (tick to hide from the live site)
+        type: boolean
+        default: true
+      - name: topic
+        label: Topic
+        type: select
+        options:
+          values:
+            - Chemicals and finishes
+            - Skin and comfort
+            - Heat and sun
+            - Labels and certification
+            - Everyday choices
+      - name: cover
+        label: Cover image (optional; leave empty for the generated pattern)
+        type: image
+      - name: coverAlt
+        label: Cover image description (for screen readers)
+        type: string
+      - name: body
+        label: Article
+        type: rich-text
+        options:
+          format: markdown
+
+  - name: about
+    label: About page
+    type: file
+    path: content/pages/about.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: heading
+        type: string
+      - name: description
+        type: text
+      - name: body
+        label: Page text
+        type: rich-text
+        options:
+          format: markdown
+
+  - name: privacy
+    label: Privacy page
+    type: file
+    path: content/pages/privacy.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: heading
+        type: string
+      - name: description
+        type: text
+      - name: body
+        label: Page text
+        type: rich-text
+        options:
+          format: markdown
