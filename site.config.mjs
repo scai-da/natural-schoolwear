@@ -19,8 +19,8 @@ export default {
   // It looks like https://formspree.io/f/abcdwxyz
   // You can use one form for both, or create two so they're easier to sort.
   forms: {
-    waitlist: "https://formspree.io/f/YOUR_WAITLIST_FORM_ID",
-    contact: "https://formspree.io/f/YOUR_CONTACT_FORM_ID",
+    waitlist: "https://formspree.io/f/maeeqqkn",
+    contact: "https://formspree.io/f/xljjggvj",
   },
 
   // ── Social links (leave blank to hide) ───────────────────
