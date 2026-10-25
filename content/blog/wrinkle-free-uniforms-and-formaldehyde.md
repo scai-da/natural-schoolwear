@@ -1,8 +1,8 @@
 ---
 title: "Wrinkle-free and easy-care: the formaldehyde question"
 description: "\"Easy-care\" and \"non-iron\" school uniforms are often treated with formaldehyde-based resins. Here's what that means for sensitive skin and what to look for instead."
-date: 2026-11-08
-draft: true
+date: 2026-10-25
+draft: false
 topic: Chemicals and finishes
 cover: ""
 coverAlt: ""
@@ -41,7 +41,7 @@ Australia does not have a specific mandatory limit for formaldehyde in clothing.
 
 ### A little crease is fine
 
-Natural Schoolwear uniforms are made without formaldehyde resins. That means they may need a quick shake, a smooth-down while damp, or a fold straight from the line. Most families find that hanging shirts to dry and folding them while slightly warm keeps them neat enough for school.
+We're designing Natural Schoolwear uniforms without formaldehyde-based wrinkle-free resins. That means they may need a quick shake, a smooth-down while damp, or a fold straight from the line. Most families find that hanging shirts to dry and folding them while slightly warm keeps them neat enough for school.
 
 A few creases in exchange for one less chemical against your child's skin all day? We think most parents would take that deal.
 

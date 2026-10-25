@@ -1,0 +1,36 @@
+# Publishes scheduled blog articles.
+# Cloudflare Pages rebuilds the site on every push. Articles with a future
+# date are hidden until that date, so on any day an article is due, this
+# workflow pushes an empty commit to trigger a rebuild that includes it.
+name: Publish scheduled articles
+
+on:
+  schedule:
+    # 13:30 UTC = 12:30am Sydney (AEDT) / 11:30pm the day before (AEST)
+    - cron: "30 13 * * *"
+    # Second run covers AEST months, when Sydney is UTC+10
+    - cron: "30 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild if an article is due today (Sydney time)
+        run: |
+          TODAY=$(TZ=Australia/Sydney date +%F)
+          if grep -l "^date: $TODAY" content/blog/*.md | xargs -r grep -L "^draft: true" | grep -q .; then
+            if git log -1 --format=%s | grep -q "Publish scheduled articles for $TODAY"; then
+              echo "Already triggered for $TODAY"; exit 0
+            fi
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m "Publish scheduled articles for $TODAY"
+            git push
+          else
+            echo "Nothing due on $TODAY"
+          fi

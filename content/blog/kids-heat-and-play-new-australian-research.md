@@ -1,8 +1,8 @@
 ---
 title: "Kids, heat and play: what new Australian research says"
 description: "A 2025 University of Sydney study changed what we know about children in extreme heat. Here's what it means for school days, play and what kids wear."
-date: 2026-12-27
-draft: true
+date: 2026-11-07
+draft: false
 topic: Heat and sun
 cover: ""
 coverAlt: ""
@@ -48,6 +48,6 @@ Because children rely heavily on shedding heat through their skin, fabrics that 
 
 We love that this research gives parents better, more accurate information. It doesn't mean heat doesn't matter. It means the biggest wins come from habits and choices: drinking water, finding shade, and wearing clothes that let a child's body do what it already does well.
 
-Natural Schoolwear is designed to stay out of the way: light, breathable organic cotton that lets kids run hard at lunch and still feel comfortable in maths after.
+We're designing Natural Schoolwear to stay out of the way: light, breathable natural fibres that let kids run hard at lunch and still feel comfortable in maths after.
 
 *Sources: Smallcombe et al., British Journal of Sports Medicine, 2025; Falk et al., Temperature, 2026.*

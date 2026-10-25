@@ -42,7 +42,7 @@ We'll be honest about what's known and what isn't. Some of the research is still
 
 ### Why we started Natural Schoolwear
 
-We started Natural Schoolwear because we believe the clothes kids live in should be as gentle as they are hard-wearing. That means natural, breathable fibres, no unnecessary chemical finishes, and certifications you can check.
+We started Natural Schoolwear because we believe the clothes kids live in should be as gentle as they are hard-wearing. That means natural, breathable fibres and no unnecessary chemical finishes, backed by independent certification as our range comes together.
 
 You don't need to replace your child's whole wardrobe tomorrow. Start by reading the label on one uniform item tonight. What's it made of? Does it say stain-resistant, easy-care or wrinkle-free? That small act of curiosity is where better choices begin.
 

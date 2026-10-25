@@ -1,8 +1,8 @@
 ---
 title: "Why skin needs to breathe"
 description: "\"Breathable\" is on every clothing label, but what does it actually mean for your child's skin? A plain-language guide to how skin cools itself and how fabric helps or hinders."
-date: 2026-11-29
-draft: true
+date: 2026-10-25
+draft: false
 topic: Skin and comfort
 cover: ""
 coverAlt: ""
@@ -59,6 +59,6 @@ None of these are dramatic. But for a child who's uncomfortable for hours every 
 - Look for a slightly relaxed fit, which lets air move
 - Pick lighter weights for summer terms
 
-Natural Schoolwear uses organic cotton without repellent coatings, cut to let air circulate. It's a simple idea: let skin do the job it was designed to do.
+We're designing Natural Schoolwear in natural fibres without repellent coatings, cut to let air circulate. It's a simple idea: let skin do the job it was designed to do.
 
 *Next: polyester vs cotton in an Australian summer.*

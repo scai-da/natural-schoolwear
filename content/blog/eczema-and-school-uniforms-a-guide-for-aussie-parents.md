@@ -1,8 +1,8 @@
 ---
 title: "Eczema and school uniforms: a guide for Aussie parents"
 description: "Up to one in four young Australian children has eczema. Here's how school uniforms can help or hinder, and what to look for when you shop."
-date: 2026-12-20
-draft: true
+date: 2026-11-04
+draft: false
 topic: Skin and comfort
 cover: ""
 coverAlt: ""
@@ -53,6 +53,6 @@ Sometimes what looks like an eczema flare is actually allergic contact dermatiti
 
 ### Gentle by design
 
-Natural Schoolwear was created with sensitive skin in mind. Organic cotton, no chemical finishes, and soft construction that keeps irritation to a minimum. We can't cure eczema, and no clothing can. But we can make sure the uniform isn't adding to the problem.
+Natural Schoolwear started with sensitive skin in mind. We're designing in soft natural fibres, without unnecessary chemical finishes, with construction that keeps rubbing to a minimum. We can't cure eczema, and no clothing can. But we can make sure the uniform isn't adding to the problem.
 
 *This article is general information, not medical advice. Always follow your child's GP or dermatologist's eczema plan.*

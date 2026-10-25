@@ -1,8 +1,8 @@
 ---
 title: "Eight hours a day: why wear time matters"
 description: "A school uniform isn't a jacket you pull on for ten minutes. Kids wear it against bare skin for up to ten hours a day, and that changes how we should think about fabric."
-date: 2026-11-22
-draft: true
+date: 2026-10-25
+draft: false
 topic: Skin and comfort
 cover: ""
 coverAlt: ""
@@ -57,6 +57,6 @@ But wear time is the reason small choices add up. If you were going to choose on
 
 ### Built for the long day
 
-We design Natural Schoolwear for the full day, not just the first hour. Breathable organic cotton that's free from chemical finishes, cut with room to move, sit and play. Because when a garment is worn this much, gentle shouldn't be optional.
+We design Natural Schoolwear for the full day, not just the first hour. Breathable natural fibres without unnecessary chemical finishes, cut with room to move, sit and play. Because when a garment is worn this much, gentle shouldn't be optional.
 
 *Coming up: why skin needs to breathe, and what that actually means.*

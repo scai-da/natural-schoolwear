@@ -1,8 +1,8 @@
 ---
 title: "What \"organic\" actually means for a school uniform"
 description: "\"Organic\" on a clothing label can mean a lot or very little. Here's what genuinely organic school uniforms should guarantee, from the farm to the finished shirt."
-date: 2027-01-10
-draft: true
+date: 2026-11-14
+draft: false
 topic: Labels and certification
 cover: ""
 coverAlt: ""
@@ -60,9 +60,9 @@ A certified organic uniform gives parents something rare: confidence about what'
 
 It also matters in Australia because the ACCC takes misleading environmental and health claims seriously. Certification is how genuine brands back up what they say.
 
-### How Natural Schoolwear approaches organic
+### How Natural Schoolwear approaches this
 
-We build our range around GOTS-certified organic cotton, so the standard covers everything from the fibre to the finish. That means no formaldehyde resins, no PFAS stain treatments, and dyes that meet strict safety criteria. We'll always show our certification details so you can check them yourself.
+We're building our range around natural fibres and designing it without formaldehyde resins or PFAS stain treatments. We're working toward independent certification, and we'll only use a label like GOTS once our garments genuinely carry it, with the licence number shown so you can check it yourself.
 
 Because "organic" should mean the whole story, not just the first chapter.
 

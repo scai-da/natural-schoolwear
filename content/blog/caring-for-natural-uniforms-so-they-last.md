@@ -1,8 +1,8 @@
 ---
 title: "Caring for natural uniforms so they last"
 description: "Organic cotton uniforms are gentle on skin and tougher than you think. Here's how to wash, dry and care for them so they stay soft and last all year."
-date: 2027-02-21
-draft: true
+date: 2026-12-05
+draft: false
 topic: Everyday choices
 cover: ""
 coverAlt: ""
@@ -24,7 +24,7 @@ One of the most common questions parents ask about organic cotton uniforms is: w
 
 ### Stain care without stain-resistant coatings
 
-Natural Schoolwear doesn't use stain-repellent finishes, so it helps to have a simple routine:
+Natural Schoolwear is being designed without stain-repellent finishes, so it helps to have a simple routine:
 
 1. **Act fast.** Rinse fresh stains in cold water as soon as you can. Hot water can set protein stains like milk, egg and blood.
 2. **Rub with laundry soap.** A bar of plain laundry soap on a damp stain lifts most food, grass and dirt marks.
@@ -59,4 +59,4 @@ Cotton is easy to mend. Sew on loose buttons quickly, patch worn knees, and rein
 
 The longer a uniform lasts, the better it is for your budget and the planet. A durable organic uniform that serves two or three children is far better value, and far less waste, than several cheaper items replaced each year.
 
-*Each Natural Schoolwear garment comes with care instructions on the label. If you ever have a question, our team is happy to help.*
+*Have a care question? [Get in touch](/contact/) and we're happy to help.*

@@ -1,8 +1,8 @@
 ---
 title: "Dyes against skin: what's colouring your child's uniform?"
 description: "Bottle green, navy, maroon: school colours come from dyes, and some synthetic dyes are a leading cause of clothing-related skin allergies. Here's what parents should know."
-date: 2026-11-15
-draft: true
+date: 2026-10-25
+draft: false
 topic: Chemicals and finishes
 cover: ""
 coverAlt: ""
@@ -47,9 +47,9 @@ Certain azo dyes can break down to release aromatic amines, some of which are cl
 4. **Look for GOTS or OEKO-TEX labels.** Both restrict hazardous dyes; GOTS is stricter on what's allowed in processing.
 5. **Keep a note.** If a rash appears, record which garments your child wore. It helps your GP or dermatologist.
 
-### How we colour our uniforms
+### How we're approaching colour
 
-Natural Schoolwear uses organic cotton dyed with GOTS-approved dyes, which must meet strict limits on toxicity and exclude allergenic disperse dyes and harmful azo dyes. We wash our garments as part of finishing, so they arrive softer and with fewer loose residues.
+For Natural Schoolwear, we're choosing natural fibres and looking for dyes that meet independent safety standards, such as those approved under GOTS or tested to OEKO-TEX limits. We'll share the details of what we use, and what it's certified to, as our range is finalised.
 
 School colours should be a source of pride, not a source of itch.
 

@@ -1,8 +1,8 @@
 ---
 title: "Sport uniforms, sweat and skin"
 description: "Sport days mean more sweat, more friction and often a full day in polyester. Here's how to keep active kids comfortable from PE to the bus home."
-date: 2027-01-03
-draft: true
+date: 2026-11-11
+draft: false
 topic: Heat and sun
 cover: ""
 coverAlt: ""
@@ -50,6 +50,6 @@ The ideal is a balance: soft natural fibres that handle everyday sweat, cut for 
 
 ### Our approach
 
-Natural Schoolwear is developing sport basics in breathable organic cotton jersey, made for the reality of a school sport day: active bursts, long sitting, and skin that deserves a break.
+Natural Schoolwear is planning sport basics in breathable natural-fibre jersey, made for the reality of a school sport day: active bursts, long sitting, and skin that deserves a break.
 
 *Ask your school's uniform committee whether a cotton sport option could be added to the uniform list. Often, all it takes is a few parents asking.*

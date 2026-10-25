@@ -1,8 +1,8 @@
 ---
 title: "Microplastics: what synthetic uniforms leave behind"
 description: "Every wash of a polyester school uniform sheds tiny plastic fibres. Here's how uniforms contribute to microplastic pollution, and what families can do."
-date: 2027-02-14
-draft: true
+date: 2026-12-02
+draft: false
 topic: Everyday choices
 cover: ""
 coverAlt: ""
@@ -56,6 +56,6 @@ Most Australian schools run second-hand uniform shops. Passing on good-condition
 
 ### Our part
 
-Natural Schoolwear is made from organic cotton, a natural plant fibre, without plastic-based coatings. We design for durability, so uniforms can be handed down, and we're working on a take-back program for uniforms at the end of their life.
+We're designing Natural Schoolwear in natural plant fibres, without plastic-based coatings, and for durability, so uniforms can be handed down. We're also exploring ways to help families pass on or recycle uniforms at the end of their life.
 
 Because what's good for our kids' skin should also be good for the world they're growing up in.

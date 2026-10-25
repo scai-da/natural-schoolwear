@@ -1,8 +1,8 @@
 ---
 title: "Australia's PFAS rules: what changed in 2025, and what didn't"
 description: "Australia banned three \"forever chemicals\" from 1 July 2025. Here's what the new rules cover, what they don't, and what it means for school uniforms."
-date: 2027-01-24
-draft: true
+date: 2026-11-21
+draft: false
 topic: Chemicals and finishes
 cover: ""
 coverAlt: ""
@@ -53,6 +53,6 @@ Regulation will keep evolving. Until it catches up, you can make choices that av
 
 ### Our position
 
-Natural Schoolwear uniforms are made without any PFAS-based finishes, not just the three that are banned. We believe the simplest rule is the best one: if a chemical isn't needed in a school uniform, it shouldn't be there.
+We're designing Natural Schoolwear uniforms without any PFAS-based finishes, not just the three that are banned. We believe the simplest rule is the best one: if a chemical isn't needed in a school uniform, it shouldn't be there.
 
 *This article reflects Australian regulation as at October 2026. Rules are changing, so check the DCCEEW IChEMS website for the latest.*

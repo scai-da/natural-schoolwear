@@ -1,8 +1,8 @@
 ---
 title: "GOTS vs OEKO-TEX: reading uniform labels with confidence"
 description: "GOTS and OEKO-TEX are the two textile labels parents see most. They mean different things. Here's a simple guide to what each one guarantees."
-date: 2027-01-17
-draft: true
+date: 2026-11-18
+draft: false
 topic: Labels and certification
 cover: ""
 coverAlt: ""
@@ -61,6 +61,6 @@ If there's a logo but no number, ask the brand for it.
 
 Both are good signs. OEKO-TEX is a useful baseline for any fabric, including synthetics. GOTS goes further for parents who want organic fibre, tighter chemical rules across production, and ethical manufacturing.
 
-Natural Schoolwear chooses GOTS as our standard because it covers the full journey of the garment. When your child wears our uniforms, you shouldn't have to wonder what happened along the way.
+As we develop Natural Schoolwear, we're using these standards as our benchmark, and we'll show any certification our garments earn, with numbers you can check. When your child wears our uniforms, you shouldn't have to wonder what happened along the way.
 
 *Tip: save this guide on your phone for the next uniform shop visit.*

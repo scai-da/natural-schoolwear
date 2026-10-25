@@ -1,8 +1,8 @@
 ---
 title: "Sweat, heat rash and the school day"
 description: "Itchy red bumps across your child's back or neck after school? Heat rash is common in Australian kids. Here's what causes it and how clothing can help."
-date: 2026-12-13
-draft: true
+date: 2026-10-25
+draft: false
 topic: Skin and comfort
 cover: ""
 coverAlt: ""
@@ -60,6 +60,6 @@ Many Australian schools already allow hats, shade and water breaks in summer. It
 
 ### Designed for warm days
 
-Natural Schoolwear makes summer uniforms from lightweight organic cotton, cut with room to move and finished without chemical coatings. Our goal is simple: children who come home ready to play, not ready to scratch.
+We're designing Natural Schoolwear summer uniforms in lightweight natural fibres, cut with room to move and without chemical coatings. Our goal is simple: children who come home ready to play, not ready to scratch.
 
 *This article is general information, not medical advice.*

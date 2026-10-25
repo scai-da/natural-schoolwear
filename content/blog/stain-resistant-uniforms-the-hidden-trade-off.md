@@ -1,8 +1,8 @@
 ---
 title: "Stain-resistant uniforms: the hidden trade-off"
 description: "Stain-resistant uniforms promise less scrubbing. But the finishes that repel tomato sauce can also stop skin breathing and add chemicals parents never asked for."
-date: 2026-11-01
-draft: true
+date: 2026-10-19
+draft: false
 topic: Chemicals and finishes
 cover: ""
 coverAlt: ""
@@ -48,7 +48,7 @@ Here are some practical alternatives that work:
 
 ### What we do differently
 
-Natural Schoolwear uniforms have no stain-repellent or water-repellent finishes. We use organic cotton that's tightly woven for durability and soft enough for all-day wear. It will get dirty. It will also wash clean, breathe well, and let your child's skin do its job.
+We're designing Natural Schoolwear uniforms without stain-repellent or water-repellent finishes, in natural fibres woven tightly for durability and soft enough for all-day wear. It will get dirty. It will also wash clean, breathe well, and let your child's skin do its job.
 
 We think that's a better trade.
 

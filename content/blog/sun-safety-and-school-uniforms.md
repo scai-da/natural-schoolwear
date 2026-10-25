@@ -1,8 +1,8 @@
 ---
 title: "Sun safety and school uniforms: breathable doesn't have to mean bare"
 description: "Australian kids need uniforms that keep them cool and protect them from UV. Here's how to get both, without trading comfort for coverage."
-date: 2027-01-31
-draft: true
+date: 2026-11-25
+draft: false
 topic: Heat and sun
 cover: ""
 coverAlt: ""
@@ -51,7 +51,7 @@ Clothing is just one part of being SunSmart. Australian schools also use broad-b
 
 ### Our approach
 
-At Natural Schoolwear, we design summer uniforms that are breathable enough for kids to want to keep them on, with features like collars and sensible lengths that cover more skin. We'll publish tested UPF ratings for our fabrics so schools and families can compare.
+At Natural Schoolwear, we design summer uniforms that are breathable enough for kids to want to keep them on, with features like collars and sensible lengths that cover more skin. We plan to have our fabrics UPF tested, and we'll share the results once we have them.
 
 Because in Australia, the best summer uniform is one that keeps kids cool *and* covered.
 

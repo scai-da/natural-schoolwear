@@ -1,8 +1,8 @@
 ---
 title: "Long-term health: what we know, and what we don't"
 description: "Could chemicals in children's clothing affect their health later in life? An honest look at the evidence on PFAS, skin sensitisation and early exposure."
-date: 2027-02-07
-draft: true
+date: 2026-11-28
+draft: false
 topic: Chemicals and finishes
 cover: ""
 coverAlt: ""
@@ -48,6 +48,6 @@ If your child has worn conventional uniforms for years, please don't panic. The 
 
 ### Our commitment
 
-At Natural Schoolwear, we'll always be honest about the evidence. We won't claim our uniforms prevent disease, because no clothing can. What we can promise is that we leave out the chemical finishes your child doesn't need, and we back that up with certification you can check.
+At Natural Schoolwear, we'll always be honest about the evidence. We won't claim our uniforms prevent disease, because no clothing can. What we can promise is that we're designing without the chemical finishes your child doesn't need, and we'll be open about how our garments are made and certified.
 
 *This article is general information, not medical advice. Talk to your GP about any health concerns.*

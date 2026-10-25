@@ -1,6 +1,6 @@
 # Natural Schoolwear website
 
-The pre-launch site for **naturalschoolwear.com.au**: home page with waitlist, blog (20 articles ready, 2 published), about, contact and privacy pages.
+The pre-launch site for **naturalschoolwear.com.au**: home page with waitlist, blog (20 articles: 9 live, 11 scheduled twice weekly until 9 December 2026), about, contact and privacy pages.
 
 It's a static site with **no dependencies**. A single script (`build.mjs`) turns the Markdown articles into web pages. Cloudflare Pages runs it each time you push to GitHub, so hosting costs nothing.
 
@@ -225,3 +225,9 @@ When stock is ready, you have two paths:
 | `npm run dev` | Preview at localhost:4321 with drafts, rebuilding on save |
 | `npm run build` | Build the live site into `dist/` (drafts left out) |
 | `npm run preview-drafts` | Build into `dist/` including drafts |
+
+---
+
+## Scheduling articles
+
+Set `draft: false` and a future `date` in an article's front matter. It stays hidden until that date (Sydney time). The **Publish scheduled articles** GitHub Action checks each night and triggers a Cloudflare rebuild on any day an article is due. You can also run it by hand from the repo's **Actions** tab.

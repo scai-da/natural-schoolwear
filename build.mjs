@@ -4,6 +4,9 @@
 //   node build.mjs            build the site into ./dist
 //   npm run dev               build, serve at http://localhost:4321 and rebuild on change
 //   node build.mjs --drafts   include draft articles (marked as drafts)
+//
+// Scheduling: an article with draft: false and a future date stays hidden until
+// that date (Sydney time). A daily scheduled rebuild publishes it on the day.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -16,6 +19,8 @@ const args = new Set(process.argv.slice(2));
 const SERVE = args.has("--serve");
 const DRAFTS = args.has("--drafts") || SERVE;
 const OUT = path.join(root, "dist");
+// Today's date in Sydney, as YYYY-MM-DD, so scheduled articles go live on the right day.
+const TODAY = new Intl.DateTimeFormat("en-CA", { timeZone: "Australia/Sydney" }).format(new Date());
 
 async function load() {
   const md = await import(pathToFileURL(path.join(root, "lib/markdown.mjs")).href);
@@ -69,7 +74,8 @@ async function build() {
         description: data.description || "",
         date: String(data.date || "2026-01-01").slice(0, 10),
         updated: data.updated ? String(data.updated).slice(0, 10) : "",
-        draft: data.draft === true,
+        // Future-dated articles are treated like drafts until their date arrives.
+        draft: data.draft === true || String(data.date || "").slice(0, 10) > TODAY,
         topic: data.topic || "Everyday choices",
         cover: data.cover || "",
         coverAlt: data.coverAlt || "",

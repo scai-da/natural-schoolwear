@@ -1,8 +1,8 @@
 ---
 title: "How to talk to your school about natural uniform options"
 description: "Want safer, more breathable uniforms at your child's school? Here's a practical, friendly guide to raising it with your P&C, uniform committee or principal."
-date: 2027-02-28
-draft: true
+date: 2026-12-09
+draft: false
 topic: Everyday choices
 cover: ""
 coverAlt: ""
@@ -66,6 +66,6 @@ Uniform changes take time, especially with supplier contracts. Even if the answe
 
 ### We can help
 
-Natural Schoolwear works with schools to supply organic cotton uniforms in school colours, with logos and certification details for your committee. If your school is considering a change, we're happy to provide samples, fabric information and certification documents to help the conversation along.
+Natural Schoolwear is preparing to work with schools on natural-fibre uniforms in school colours and with school logos. If your school is considering a change, we're happy to share fabric information and, as they become available, samples and certification details to help the conversation along.
 
-*[Get in touch](/contact/) to request a school information pack.*
+*[Get in touch](/contact/) to talk about your school.*

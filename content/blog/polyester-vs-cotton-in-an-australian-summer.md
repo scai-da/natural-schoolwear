@@ -1,8 +1,8 @@
 ---
 title: "Polyester vs cotton in an Australian summer"
 description: "Most Australian school uniforms are now polyester or poly-cotton blends. Here's an honest comparison with cotton for long, hot school days."
-date: 2026-12-06
-draft: true
+date: 2026-10-25
+draft: false
 topic: Heat and sun
 cover: ""
 coverAlt: ""
@@ -55,4 +55,4 @@ There's also the skin itself. Polyester is commonly coloured with disperse dyes,
 
 For everyday wear in an Australian climate, especially for children with sensitive skin, natural cotton is the more comfortable choice for most of the school day.
 
-Natural Schoolwear uses organic cotton across our range, chosen for long, warm days and gentle on skin from the first bell to the last.
+That's why we're building the Natural Schoolwear range around natural fibres like cotton, chosen for long, warm days and gentle on skin from the first bell to the last.

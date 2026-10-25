@@ -47,6 +47,6 @@ The study tested products from North American stores, so we can't say Australian
 - **Look for certification.** The Global Organic Textile Standard (GOTS) bans PFAS in certified products.
 - **Accept a few stains.** As one of the study's authors put it, most parents would rather wash a shirt again than expose their child to unnecessary chemicals.
 
-At Natural Schoolwear, our uniforms carry no stain-repellent treatments. A grass stain or a splash of tomato sauce is a small price for peace of mind.
+At Natural Schoolwear, we're designing our uniforms without stain-repellent treatments. A grass stain or a splash of tomato sauce is a small price for peace of mind.
 
 *Source: Xia et al., "Per- and Polyfluoroalkyl Substances in North American School Uniforms", Environmental Science & Technology, 2022.*
